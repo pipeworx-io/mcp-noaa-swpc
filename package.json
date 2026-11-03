@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-noaa-swpc",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NOAA SWPC MCP — space weather.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "noaa-swpc",
     "gatewaySlug": "noaa-swpc",
-    "sourceHash": "v1-5191e88e03b5b5d4b550f61ec7af6e5eb8e459966f6ef6bec823fc47a3530e95",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-61e560588f6fdb236f27444ff04284e347ad80957753fd6b202bf95e4c422b0c",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }

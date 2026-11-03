@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/noaa-swpc",
   "title": "Noaa Swpc",
   "description": "NOAA SWPC MCP — space weather.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/noaa-swpc",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-noaa-swpc",
